@@ -1,0 +1,5 @@
+{
+    "nodejs.editor.formatOnSave.eslint.mode": "Disabled",
+    "nodejs.editor.formatOnSave.prettier.mode": "Disabled",
+    "backend.maxHeapSizeMb": 1487
+}
